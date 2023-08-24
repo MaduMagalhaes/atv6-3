@@ -1,10 +1,11 @@
 html{
-  text-align: center;
   border-color: rgb(209, 115, 209);
 }
 table {
   text-align: center;
   width: 100%;
+  background-color: rgb(209, 115, 209);
+  font-style: oblique;
 }
 
 label{
@@ -16,6 +17,4 @@ label{
 
 .direita{
   display: inline-block;
-  width: 50%;
-  text-align: center;
 }
