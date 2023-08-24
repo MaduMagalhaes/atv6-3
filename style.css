@@ -1,5 +1,9 @@
-html{
-  border-color: rgb(209, 115, 209);
+body{
+  background-color: rgb(209, 115, 209);
+}
+
+.texto{
+  background-color: white;
 }
 
 p{
@@ -9,7 +13,6 @@ p{
 table {
   text-align: center;
   width: 100%;
-  background-color: rgb(209, 115, 209);
   font-style: oblique;
 }
 
