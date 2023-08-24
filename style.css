@@ -1,6 +1,11 @@
 html{
   border-color: rgb(209, 115, 209);
 }
+
+p{
+  text-align: center;
+}
+
 table {
   text-align: center;
   width: 100%;
